@@ -23,17 +23,6 @@ A Streamlit app for **chatting with your PDFs** using **RAG**. Upload one or mor
 
 ---
 
-## 📂 Project Structure
-```
-conversation_RAG_with_pdf_uploads/
-├── app.py
-├── requirements.txt
-├── .env                 # holds HF_TOKEN (do NOT commit real keys)
-└── .git/                # repo metadata (optional)
-```
-> The Streamlit app lives entirely in `app.py`.
-
----
 
 ## ⚙️ Setup
 
